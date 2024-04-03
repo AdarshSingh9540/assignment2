@@ -10,7 +10,7 @@ export function Navbar() {
     </div>
 
     <div className="">
-        <ul className="flex py-6 space-x-6 ">
+        <ul className="flex py-6 space-x-6  ">
             <li className="cursor-pointer" >Products</li>
             <li className="cursor-pointer">Soultions</li>
             <li className="cursor-pointer">Pricing</li>
